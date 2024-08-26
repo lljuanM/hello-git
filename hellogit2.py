@@ -1,1 +1,1 @@
-print("hoole GIT dos")
+print("hello GIT dos")
